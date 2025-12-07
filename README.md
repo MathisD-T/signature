@@ -12,3 +12,9 @@ One-page restaurant site built with React and Vite. No external AI services are 
 
 1. Install dependencies: `npm install`
 2. Start the dev server: `npm run dev`
+3. Build for production: `npm run build` (output in `dist/`)
+
+## Déploiement GitHub Pages
+
+- Configure Pages to serve the `dist/` folder (gh-pages branch or `docs/` copy).
+- The Vite `base` is set to `./` so assets load correctly when hosted under `/username/repo/`.
