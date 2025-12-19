@@ -29,7 +29,7 @@ export const Footer: React.FC = () => {
 
         <div className="flex flex-col items-start md:items-end justify-between">
            <a 
-             href="https://book.example.com" 
+             href="https://booking.libroreserve.com/25a34d55092942c/QC016950602674/seat?fbclid=IwY2xjawOycyNleHRuA2FlbQIxMABicmlkETEwV1kyY000MWRxczdPNzE2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHj3Xi93O2hEzkDW62Qn_Dvq96THN-a_OSMcQ6BVKTGGB4JoDd4KkV3-G2b_Y_aem_3RupYyvbSSCnWVpwtNOwuQ" 
              target="_blank"
              rel="noopener noreferrer"
              className="inline-block bg-black text-white font-sans text-xs font-bold uppercase tracking-[0.2em] px-8 py-4 hover:bg-gray-800 transition-colors mb-8"
@@ -38,7 +38,7 @@ export const Footer: React.FC = () => {
            </a>
            
            <p className="font-sans text-xs text-gray-300 uppercase tracking-widest">
-             © 2024 La Signature
+             © 2026 La Signature
            </p>
         </div>
 

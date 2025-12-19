@@ -57,9 +57,9 @@ export const Navbar: React.FC = () => {
         <div className="text-left">
            <div className="w-8 h-[1px] bg-black mb-6"></div>
            <address className="not-italic font-serif text-base text-gray-600 leading-relaxed">
-             155 Rue Saint-Honoré<br/>
+             1073 3e avenue<br/>
              <span className="block mt-2 font-sans text-xs uppercase tracking-wider text-gray-400">
-               +1 418 555 0123
+               +1 418 524 7272
              </span>
            </address>
         </div>
